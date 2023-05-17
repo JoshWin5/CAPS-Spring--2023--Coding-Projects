@@ -1,0 +1,5 @@
+﻿  JN_Syntax_New2023.cpp
+C:\Users\TechSolutions\OneDrive - Blue Valley School District\JN_Syntax_New2023\JN_Syntax_New2023.cpp(7,19): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\TechSolutions\OneDrive - Blue Valley School District\JN_Syntax_New2023\JN_Syntax_New2023.cpp(19,9): error C2371: 'test': redefinition; different basic types
+C:\Users\TechSolutions\OneDrive - Blue Valley School District\JN_Syntax_New2023\JN_Syntax_New2023.cpp(15,6): message : see declaration of 'test'
+C:\Users\TechSolutions\OneDrive - Blue Valley School District\JN_Syntax_New2023\JN_Syntax_New2023.cpp(27,5): warning C4091: '': ignored on left of 'void' when no variable is declared
